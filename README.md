@@ -14,5 +14,5 @@ A deep learning web application built with Streamlit and TensorFlow to classify 
 | SUNDAY, ABASIENYENE ANIEDIONG | 23/EG/EE/064 | metaprinx | Testing & Quality Assurance |- Third contribution 
 | ESSIEN, ANIEKAN SUNDAY | 23/EG/EE/024 | Aniekan024 | Testing & Quality Assurance | - First contribution|
 | NWAUKWA, TREASURE CHIAMAKA | 23/EG/EE/054 | TreasureNwaukwa | Documentation & Report Writing. |
-| ETTE, VICTOR JOSEPH | 23/EG/EE/034 | katsuki-josefu | Documentation & Report Writing |
+| ETTE, VICTOR JOSEPH | 23/EG/EE/034 | katsuki-josefu | Documentation & Report Writing | First contribution
 | EFFIONG, SAMUEL FELIX | 23/EG/EE/004 | effiongsamuelfelix-maker | Presentation & Slide Design |
