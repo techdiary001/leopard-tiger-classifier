@@ -6,7 +6,7 @@ A deep learning web application built with Streamlit and TensorFlow to classify 
 | Full Name | Registration Number | GitHub Username | Role / Contribution |
 | :--- | :--- | :--- | :--- |
 | DARTY, UTIBE-IMA JOSEPH | 23/EG/EE/014 | techdiary001 | Lead Developer / Implementation |
-| SUNDAY, FAVOUR DAVID - First contribution | 23/EG/EE/074 | Favymann | Data Collection & Preprocessing |
+| SUNDAY, FAVOUR DAVID - Second contribution | 23/EG/EE/074 | Favymann | Data Collection & Preprocessing |
 | OKON, UBOHO SOLOMON | 23/EG/EE/044 | uboho719 | Data Collection & Preprocessing |
 | BROWNSON, KINGSLEY BASSEY | 23/EG/EE/084 | Kingbhee | Model Architecture Research |
 | AKPAN, WISDOM EDET | 23/EG/EE/104 | Wisdomerick741 | Model Architecture Research | - Second contribution|
