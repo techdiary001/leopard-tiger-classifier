@@ -9,7 +9,7 @@ A deep learning web application built with Streamlit and TensorFlow to classify 
 | SUNDAY, FAVOUR DAVID | 23/EG/EE/074 | Favymann | Data Collection & Preprocessing |
 | OKON, UBOHO SOLOMON | 23/EG/EE/044 | uboho719 | Data Collection & Preprocessing |
 | BROWNSON, KINGSLEY BASSEY | 23/EG/EE/084 | Kingbhee | Model Architecture Research |
-| AKPAN, WISDOM EDET | 23/EG/EE/104 | Wisdomerick741 | Model Architecture Research |
+| AKPAN, WISDOM EDET | 23/EG/EE/104 | Wisdomerick741 | Model Architecture Research |- Second contribution|
 | EZEKWESIRI, NNAMDI JOHN | 23/EG/EE/114 | namco419 | UI / UX Design & Wire-framing |
 | SUNDAY, ABASIENYENE ANIEDIONG | 23/EG/EE/064 | metaprinx | Testing & Quality Assurance |
 | ESSIEN, ANIEKAN SUNDAY | 23/EG/EE/024 | Aniekan024 | Testing & Quality Assurance | - First contribution|
