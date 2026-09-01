@@ -8,7 +8,23 @@ st.set_page_config(page_title="Leopard vs Tiger Classifier", page_icon="🐆", l
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('leopard_tiger_model.h5')
+    from tensorflow.keras.layers import InputLayer
+    from tensorflow.keras.mixed_precision import Policy
+    
+    class SafeInputLayer(InputLayer):
+        def __init__(self, *args, **kwargs):
+            kwargs.pop('batch_shape', None)
+            kwargs.pop('optional', None)
+            super().__init__(*args, **kwargs)
+            
+    return tf.keras.models.load_model(
+        'leopard_tiger_model.h5', 
+        compile=False, 
+        custom_objects={
+            'InputLayer': SafeInputLayer,
+            'DTypePolicy': Policy
+        }
+    )
 
 model = load_model()
 
