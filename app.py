@@ -8,7 +8,7 @@ st.set_page_config(page_title="Leopard vs Tiger Classifier", page_icon="🐅", l
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('leopard_tiger_model.h5')
+    return tf.keras.models.load_model('leopard_tiger_model.h5', compile=False)
 
 model = load_model()
 
