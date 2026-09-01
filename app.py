@@ -17,7 +17,7 @@ def load_model():
             kwargs.pop('optional', None)
             super().__init__(*args, **kwargs)
             
-    return tf.keras.models.load_model(
+   return tf.keras.models.load_model(
         'leopard_tiger_model.h5', 
         compile=False, 
         custom_objects={
@@ -26,8 +26,7 @@ def load_model():
         }
     )
 
-st.title("🐅 Leopard vs Tiger Classifier 🐆")
-st.write("Upload an image of a leopard or a tiger to test the model!")
+model = load_model()
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
