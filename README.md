@@ -8,7 +8,7 @@ A deep learning web application built with Streamlit and TensorFlow to classify 
 | DARTY, UTIBE-IMA JOSEPH | 23/EG/EE/014 | techdiary001 | Lead Developer / Implementation |
 | SUNDAY, FAVOUR DAVID - Second contribution | 23/EG/EE/074 | Favymann | Data Collection & Preprocessing |
 | OKON, UBOHO SOLOMON | 23/EG/EE/044 | uboho719 | Data Collection & Preprocessing |
-| BROWNSON, KINGSLEY BASSEY | 23/EG/EE/084 | Kingbhee | Model Architecture Research |
+| BROWNSON, KINGSLEY BASSEY | 23/EG/EE/084 | Kingbhee | Model Architecture Research | - fourth contribution 
 | AKPAN, WISDOM EDET | 23/EG/EE/104 | Wisdomerick741 | Model Architecture Research | - Second contribution|
 | EZEKWESIRI, NNAMDI JOHN | 23/EG/EE/114 | namco419 | UI / UX Design & Wire-framing |
 | SUNDAY, ABASIENYENE ANIEDIONG | 23/EG/EE/064 | metaprinx | Testing & Quality Assurance |- Third contribution 
